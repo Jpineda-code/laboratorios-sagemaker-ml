@@ -7,6 +7,7 @@
 ## Descripción
 
 Repositorio correspondiente al desarrollo de los laboratorios 3.1, 3.2 y 3.3 de Amazon SageMaker.
+En cada laboratorio encontrar un archivo llamado dev_jpineda.ipynb el cual es el notebook principal de cada laboratorio. 
 
 ## Laboratorio 3.1
 
