@@ -1,7 +1,0 @@
-# Introducción
-
-Este laboratorio corresponde a la continuación del Módulo 3 y tiene como objetivo aplicar técnicas de aprendizaje automático en un escenario empresarial real. El contexto se centra en un proveedor de atención médica que busca mejorar la detección de anomalías en pacientes ortopédicos mediante el uso de modelos predictivos.
-
-Para ello, se dispone de un conjunto de datos biomédicos creado por el Dr. Henrique da Mota durante su residencia en el Grupo de Investigación Aplicada en Ortopedia (GARO) en Lyon, Francia. Dicho conjunto contiene seis características biomecánicas relacionadas con la pelvis y la columna lumbar, junto con etiquetas que clasifican a los pacientes como normales o con alguna anomalía (hernia de disco o espondilolistesis).
-
-El laboratorio plantea dividir los datos en tres subconjuntos: entrenamiento, validación y prueba. Con los dos primeros se entrenará un modelo de XGBoost utilizando Amazon SageMaker, mientras que el conjunto de prueba se reservará para evaluar métricas en un ejercicio posterior. Esta metodología permitirá construir un modelo capaz de predecir si un paciente presenta una condición ortopédica anormal, contribuyendo así a la mejora de los procesos de diagnóstico en el ámbito clínico.
