@@ -1,0 +1,3 @@
+# Introducción
+
+En este laboratorio se desarrollará un modelo de aprendizaje automático en Amazon SageMaker para clasificar datos del conjunto Vertebral Column, utilizando el algoritmo XGBoost. A través de este proceso, se prepararán los datos, se entrenará el modelo y se realizarán predicciones para identificar si los registros corresponden a una condición normal o anormal. Finalmente, se compararán los resultados obtenidos mediante un endpoint de inferencia y el procesamiento por lotes, con el fin de comprender cómo se pueden aplicar estos métodos en el análisis y la clasificación de datos.
