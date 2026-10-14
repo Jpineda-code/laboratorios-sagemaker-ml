@@ -8,7 +8,7 @@
 
 Repositorio correspondiente al desarrollo de los laboratorios 3.1, 3.2, 3.3, 3.4 y 3.5 de Amazon SageMaker.
 
-Cada laboratorio cuenta con su propia carpeta, en la que se encuentran los notebooks, archivos necesarios para el desarrollo de las actividades y evidencias correspondientes.vv 
+Cada laboratorio cuenta con su propia carpeta, en la que se encuentran los notebooks, archivos necesarios para el desarrollo de las actividades y evidencias correspondientes
 
 ## Laboratorio 3.1
 
