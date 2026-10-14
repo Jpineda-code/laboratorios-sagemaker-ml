@@ -1,0 +1,4 @@
+
+# Ignorar copias automaticas de Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/

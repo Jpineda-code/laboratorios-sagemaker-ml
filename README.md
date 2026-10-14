@@ -6,8 +6,9 @@
 
 ## Descripción
 
-Repositorio correspondiente al desarrollo de los laboratorios 3.1, 3.2 y 3.3 de Amazon SageMaker.
-En cada laboratorio encontrar un archivo llamado dev_jpineda.ipynb el cual es el notebook principal de cada laboratorio. 
+Repositorio correspondiente al desarrollo de los laboratorios 3.1, 3.2, 3.3, 3.4 y 3.5 de Amazon SageMaker.
+
+Cada laboratorio cuenta con su propia carpeta, en la que se encuentran los notebooks, archivos necesarios para el desarrollo de las actividades y evidencias correspondientes
 
 ## Laboratorio 3.1
 
@@ -51,50 +52,33 @@ En este laboratorio se realizó la manipulación y transformación de los datos 
 
 Las evidencias del procedimiento se encuentran en la carpeta `Laboratorio-3.3`.
 
-## Conclusión
+## Laboratorio 3.4
 
-El desarrollo de los laboratorios permitió comprender diferentes etapas del manejo de datos en Amazon SageMaker, desde su creación e importación hasta su exploración, manipulación y preparación. Estas actividades permitieron reconocer la importancia de procesar adecuadamente los datos antes de utilizarlos en procesos de aprendizaje automático.
+### Objetivo
 
-## Captura de pantalla de todo el proceso
+Desarrollar las actividades de aprendizaje automático propuestas mediante Amazon SageMaker.
 
-1. Creacion del Jupyter - lab 3.1
-<img width="1914" height="947" alt="1  Creacion del Jupyter - lab 3 1" src="https://github.com/user-attachments/assets/4774422d-b44b-4f7c-97fe-41ac065a4657" />
+### Desarrollo
 
-2. Creacion de Jupyter - lab 3.1
-<img width="1917" height="950" alt="2  Creacion de Jupyter - lab 3 1" src="https://github.com/user-attachments/assets/5fce04af-acf3-4f00-b9d9-a694d0f81f9e" />
+En este laboratorio se trabajó con notebooks y archivos de datos para desarrollar el proceso de aprendizaje automático, siguiendo los pasos establecidos en la guía de la actividad.
 
-3. Configuración Github - lab 3.1
-<img width="1917" height="948" alt="3  Configuración Github - lab 3 1" src="https://github.com/user-attachments/assets/17eebe07-182e-40db-8ece-ab87fdf4f646" />
+### Evidencias del laboratorio correspondiente
 
-4. Importación y manipulación de datos - lab 3.1
-<img width="1918" height="947" alt="4  Importación y manipulación de datos - lab 3 1" src="https://github.com/user-attachments/assets/c36ebe56-8b18-4160-bfdf-99a85d82dc07" />
+Los notebooks, archivos necesarios y evidencias del procedimiento se encuentran en la carpeta `Laboratorio-3.4`.
 
-5. Ingreso a Jupyter - lab 3.2
-<img width="1912" height="947" alt="5  Ingreso a Jupyter - lab 3 2" src="https://github.com/user-attachments/assets/3d168734-ef7d-4625-863c-4aa7757f6651" />
+## Laboratorio 3.5
 
-6. Configuración del lab - lab 3.2
-<img width="1914" height="946" alt="6  Configuración del lab - lab 3 2" src="https://github.com/user-attachments/assets/d8f7ab1c-f3a9-4b8d-87b9-0b744148676b" />
+### Objetivo
 
-7. Configuración del espacio - lab 3.2
-<img width="1914" height="946" alt="7  Configuración del espacio - lab 3 2" src="https://github.com/user-attachments/assets/1b73f993-fa30-43f5-99ed-ca6c3df75326" />
+Entrenar y utilizar un modelo de clasificación binaria mediante Amazon SageMaker y el algoritmo XGBoost.
 
-8. Configuración del espacio - lab 3.2
-<img width="1915" height="951" alt="8  Paso 1 del lab - lab 3 2" src="https://github.com/user-attachments/assets/525c7944-e079-49da-a5bb-2e41edacb85e" />
+### Desarrollo
 
-9. fianlisación - lab 3.2
-<img width="1912" height="944" alt="9  fianlisación - lab 3 2" src="https://github.com/user-attachments/assets/2abec9a1-0d34-4bae-84fe-c899bcf2a9ca" />
+En este laboratorio se prepararon los datos del conjunto *Vertebral Column* y se entrenó un modelo para clasificar los registros como normales o anormales. También se realizaron predicciones mediante un endpoint de inferencia y el procesamiento por lotes, con el propósito de comparar las formas de utilizar el modelo.
 
-10. Ingreso al JupyterLab - lab 3.3
-<img width="1913" height="947" alt="10  Ingreso al JupyterLab - lab 3 3" src="https://github.com/user-attachments/assets/c99d652f-4c00-42ba-80b9-ae74c79f558c" />
+### Evidencias del laboratorio correspondiente
 
-11. Configuraciones iniciales - lab 3.3
-<img width="1916" height="944" alt="11  Configuraciones iniciales - lab 3 3" src="https://github.com/user-attachments/assets/4ff19d3f-378b-44dd-99c9-1418565a2a6b" />
-
-12. Ejecución de los pasos - lab 3.3
-<img width="1912" height="944" alt="12  Ejecución de los pasos - lab 3 3" src="https://github.com/user-attachments/assets/feb7798e-7cf7-4faf-84bf-1c9e446fc2df" />
-
-13. Finalización - lab 3.3
-<img width="1915" height="944" alt="Finalización del lab 3 3" src="https://github.com/user-attachments/assets/bfe90066-22e1-4824-918c-33d7227f426a" />
+Los notebooks, archivos necesarios y evidencias del procedimiento se encuentran en la carpeta `Laboratorio-3.5`.
 
 
 
